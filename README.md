@@ -3,7 +3,7 @@
 
 Hi people!
 
-Welcome in my Github.
+Welcome on my Github.
 
 I love reading articles about economy, politics, and arts. 
 
