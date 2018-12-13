@@ -5,6 +5,5 @@ Hi people!
 
 Welcome on my Github.
 
-I love reading articles about economy, politics, and arts. 
+I love reading articles about economy, technology, arts and drinking Club Mate!
 
-I am learning Python for data analysis and drink ice tea
